@@ -1,0 +1,30 @@
+{
+  "slug": "rk-decoration-and-event-management-mallapuzha",
+  "name": "RK Decoration & Event Management",
+  "shortName": "RK Decoration & Event Management",
+  "descriptor": "Event Management",
+  "address": "Kuzhikala, Mallapuzhassery, Keralam 689644",
+  "area": "Kuzhikala",
+  "city": "Mallapuzhassery",
+  "district": "Pathanamthitta",
+  "region": "Kerala",
+  "postalCode": "689644",
+  "geo": {
+    "lat": 9.2905435,
+    "lng": 76.70580079999999
+  },
+  "mapsLink": "https://maps.google.com/?cid=18227392798581767154",
+  "phone": "+91 94466 86046",
+  "whatsapp": "919446686046",
+  "rating": 5,
+  "reviewCount": 1,
+  "reviews": [],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://rk-decoration-and-event-management.vercel.app"
+}
